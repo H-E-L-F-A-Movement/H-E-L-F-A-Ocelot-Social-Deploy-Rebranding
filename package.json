@@ -1,7 +1,7 @@
 {
   "name": "helfa.social",
-  "version": "1.0.6",
-  "ocelotDockerVersionTag": "1.0.6-160",
+  "version": "1.0.7",
+  "ocelotDockerVersionTag": "1.0.7-171",
   "dockerOrganisation": "helfacommunity",
   "description": "helfa.social Branded",
   "author": "ocelot.social Community",
@@ -9,6 +9,6 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/H-E-L-F-A/H-E-L-F-A-Ocelot-Social-Deploy-Rebranding"
+    "url": "https://github.com/H-E-L-F-A-Movement/H-E-L-F-A-Ocelot-Social-Deploy-Rebranding"
   }
 }
